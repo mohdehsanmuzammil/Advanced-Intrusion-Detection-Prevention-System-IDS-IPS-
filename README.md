@@ -31,7 +31,7 @@ Features
 * Identifies suspicious IP behavior
 * Automatically blocks malicious sources
 * Displays real-time traffic statistics
-   ![statistics-GRAPH](results.png)
+   ![statistics-GRAPH](result.png)
 
 ## Files
 
